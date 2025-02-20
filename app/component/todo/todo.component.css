@@ -1,0 +1,8 @@
+.completed {
+    text-decoration: line-through;
+    text-decoration-color: rgb(228, 78, 58);
+}
+p,h1,h2,div{
+    color: rgb(0, 217, 255);
+    text-align: center;
+}
